@@ -94,7 +94,7 @@ function askQuestions() {
   }
 }
 function displayFinalScore() {
-  console.log("Your final score is " + score + "/11");
+  console.log("Your final score is " + score + "/10");
   console.log("Thank you for playing.." + chalk.yellow.bold("Dattebayo"))
 
 }
